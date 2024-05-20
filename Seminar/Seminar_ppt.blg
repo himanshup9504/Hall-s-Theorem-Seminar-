@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Seminar_ppt.aux
+The style file: unsrt.bst
+Database file #1: refrence.bib
+Warning--empty year in another
+You've used 2 entries,
+            1791 wiz_defined-function locations,
+            454 strings with 3735 characters,
+and the built_in function-call counts, 296 in all, are:
+= -- 22
+> -- 8
+< -- 0
++ -- 4
+- -- 2
+* -- 10
+:= -- 55
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 18
+empty$ -- 34
+format.name$ -- 2
+if$ -- 63
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 3
+newline$ -- 13
+num.names$ -- 2
+pop$ -- 11
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 5
+stack$ -- 0
+substring$ -- 0
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 2
+width$ -- 3
+write$ -- 21
+(There was 1 warning)

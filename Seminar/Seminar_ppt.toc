@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Outline}{2}{0}{1}
+\beamer@sectionintoc {2}{Bipartite Graph}{3}{0}{2}
+\beamer@sectionintoc {3}{Bipartite Graph}{4}{0}{3}
+\beamer@sectionintoc {4}{Matching}{5}{0}{4}
+\beamer@sectionintoc {5}{Hall's Theorem}{7}{0}{5}
+\beamer@sectionintoc {6}{Proof}{8}{0}{6}
+\beamer@sectionintoc {7}{Corollary}{13}{0}{7}
+\beamer@sectionintoc {8}{References}{16}{0}{8}
